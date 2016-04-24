@@ -7,7 +7,7 @@ public class CelebFamous
 public static void main(String[] args)
     {
     
-    
+     
       System.out.println("Enter your birthday");
       
 
@@ -16,11 +16,11 @@ public static void main(String[] args)
 
 
 
-     }
+     } //End Main Method
 
 
 
 
 
 
-}
+} //End Class
